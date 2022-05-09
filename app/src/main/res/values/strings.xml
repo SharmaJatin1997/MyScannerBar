@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Scanner Bar</string>
+    <string name="hello_scanner">Hello Scanner!</string>
+</resources>
